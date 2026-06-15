@@ -149,7 +149,7 @@ Intelligent chatbot that understands natural language queries using NLP, with a 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dhilipkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
