@@ -21,7 +21,7 @@
 ```javascript
 const dhilipkumar = {
   role      : "MERN Stack Developer | Full-Stack Engineer",
-  experience: "2+ years of professional web development",
+  experience: "3 years of professional web development",
   education : "B.E. (EEE) — Anna University, 2012–2016",
   location  : "India",
   languages : ["Tamil", "English", "Kannada", "Telugu"],
