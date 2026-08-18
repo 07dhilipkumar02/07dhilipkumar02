@@ -187,7 +187,7 @@ Intelligent chatbot that understands natural language queries using NLP, with a 
 ## 💼 Work Experience
 
 ```
-📌 Full Stack Developer | TechB Software Solutions  |  Aug 2026 – Present
+📌 Full Stack Developer | TechB Software Solutions  |  Jan 2026 – Present
    ├── Develop and maintain web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
 Build responsive and user-friendly frontend interfaces using React.js, JavaScript, HTML, and CSS.
 Develop and integrate RESTful APIs for seamless communication between frontend and backend services.
