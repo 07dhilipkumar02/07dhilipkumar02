@@ -219,7 +219,7 @@ Improved application usability and application performance through code optimiza
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhilip-kumar-07dk02/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/07dhilipkumar02)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhilipkumar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9A3?style=for-the-badge&logo=vercel&logoColor=white)](https://velvety-babka-74e813.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9A3?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-portfolio-xlxj.vercel.app/)
 
 </div>
 
