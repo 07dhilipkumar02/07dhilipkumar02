@@ -187,11 +187,22 @@ Intelligent chatbot that understands natural language queries using NLP, with a 
 ## 💼 Work Experience
 
 ```
+📌 Full Stack Developer | TechB Software Solutions  |  Aug 2026 – Present
+   ├── Develop and maintain web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
+Build responsive and user-friendly frontend interfaces using React.js, JavaScript, HTML, and CSS.
+Develop and integrate RESTful APIs for seamless communication between frontend and backend services.
+Work with MongoDB for database design, data management, and efficient data handling.
+Debug and troubleshoot frontend and backend issues to improve application reliability and user experience.
+Collaborate with team members to implement new features, enhance existing functionality, and deliver quality software solutions. (Git/GitHub)
+
+
 📌 Sukhibhavan Properties  |  Full-Stack Developer  |  2022 – 2024
-   ├── Developed & maintained web apps with React.js, Node.js, Express.js, MongoDB
-   ├── Built reusable React components and integrated RESTful APIs
-   ├── Managed MongoDB databases with CRUD operations
-   └── Handled debugging, testing, deployment, and version control (Git/GitHub)
+   ├── Developed responsive web applications using React.js, JavaScript, HTML, CSS, Node.js, Express.js, and MongoDB.
+Integrated frontend and backend components using RESTful APIs and server-side services.
+Designed and managed MongoDB data structures and implemented efficient database operations.
+Developed application features, fixed bugs, and performed troubleshooting across frontend and backend components.
+Assisted with application deployment, maintenance, and resolving production-related issues.
+Improved application usability and application performance through code optimization and efficient database operations. (Git/GitHub)
 
 📌 Harika Pharma & Surgical Distributors  |  Marketing Executive  |  2020 – 2022
    ├── Managed customer interactions and business communications
