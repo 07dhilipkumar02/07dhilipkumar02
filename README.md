@@ -94,7 +94,7 @@ An AI-powered application that analyzes resumes, generates ATS scores, extracts 
 
 `React.js` `Node.js` `Express.js` `MongoDB` `NLP`
 
-[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)]
+[![View Project](https://img.shields.io/badge/View)]
 
 </td>
 <td width="50%" valign="top">
