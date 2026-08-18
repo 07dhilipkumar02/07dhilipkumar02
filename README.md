@@ -92,7 +92,7 @@ An AI-powered application that analyzes resumes, generates ATS scores, extracts 
 
 `React.js` `Node.js` `Express.js` `MongoDB` `NLP`
 
-[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)](https://github.com/dhilipkumar)
+[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)]
 
 </td>
 <td width="50%" valign="top">
@@ -104,8 +104,7 @@ Full-stack e-commerce platform with user authentication, product listing, search
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)](https://github.com/dhilipkumar)
-
+[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)]
 </td>
 </tr>
 <tr>
@@ -118,8 +117,7 @@ Full-stack food ordering platform with JWT-based authentication, cart management
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)](https://github.com/dhilipkumar)
-
+[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)]
 </td>
 <td width="50%" valign="top">
 
@@ -130,7 +128,7 @@ Intelligent chatbot that understands natural language queries using NLP, with a 
 
 `React.js` `Node.js` `Python` `NLP`
 
-[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)](https://github.com/dhilipkumar)
+[![View Project](https://img.shields.io/badge/View%20Project-00D9A3?style=flat-square&logo=github)]
 
 </td>
 </tr>
