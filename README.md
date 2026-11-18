@@ -2,7 +2,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:063B4A,100:00D9A3&height=220&section=header&text=Dhilipkumar%20P&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20AI%20%26%20NLP%20Enthusiast&descAlignY=58&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:063B4A,100:00D9A3&height=200&section=header&text=Dhilipkumar%20P&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=13" width="100%" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Dhilipkumar P</h2>
@@ -310,7 +310,7 @@ Anna University
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A3,50:063B4A,100:07111F&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A3,100:07111F&height=120&section=footer" width="100%" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
