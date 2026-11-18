@@ -1,9 +1,12 @@
 
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:063B4A,100:00D9A3&height=210&section=header&text=Dhilipkumar%20P&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20%26%20NLP&descAlignY=58&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:063B4A,100:00D9A3&height=200&section=header&text=Dhilipkumar%20P&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=13" width="100%" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Dhilipkumar P</h2>
+
 <h3 align="center">MERN Stack Developer | Full-Stack Engineer | AI & NLP Enthusiast</h3>
 
 <p align="center">
@@ -18,133 +21,191 @@
 
 ---
 
-<table>
-<tr>
-<td width="38%" valign="top">
+<!-- ================= ABOUT ================= -->
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full-Stack Developer specializing in responsive, scalable and user-friendly web applications.
+I'm a passionate **Full-Stack Developer** specializing in building responsive, scalable and user-friendly web applications with modern technologies.
 
-- 💻 MERN Stack Development
-- ⚛️ React.js & JavaScript
-- 🔧 Node.js & Express.js
-- 🗄️ MongoDB & SQL
-- 🤖 AI, NLP, RAG & LLMs
-- 🐳 Docker & System Design
-- 🚀 Real-world applications
+- 💻 Professional experience in MERN Stack Development.
+- ⚛️ Frontend development using React.js and JavaScript.
+- 🔧 Backend development using Node.js and Express.js.
+- 🗄️ Database management using MongoDB and SQL.
+- 🤖 Exploring AI, NLP, RAG and LLM technologies.
+- 🐳 Learning Docker, AWS and System Design.
+- 🚀 Interested in building real-world software solutions.
 
-### Developer Profile
+### 👨‍💻 Developer Profile
 
 ```javascript
-const developer = {
+const dhilipkumar = {
   name: "Dhilipkumar P",
   role: "Full Stack Developer",
   location: "India",
-  education: "B.E. (EEE)",
-  frontend: ["React", "JavaScript"],
-  backend: ["Node.js", "Express"],
-  database: ["MongoDB", "MySQL"],
-  focus: ["MERN", "AI", "RAG", "LLMs"]
+  education: "B.E. - EEE",
+
+  frontend: ["React.js", "JavaScript", "HTML5", "CSS3"],
+  backend: ["Node.js", "Express.js", "REST APIs"],
+  database: ["MongoDB", "MySQL", "PostgreSQL"],
+
+  tools: ["Git", "GitHub", "Postman", "VS Code"],
+  exploring: ["AI", "NLP", "RAG", "LLMs", "Docker"],
+
+  goal: "Build scalable and intelligent applications"
 };
 ```
 
-### What I Do
+---
 
-- ✅ Full-Stack Development
-- ✅ REST API Integration
-- ✅ Database Management
-- ✅ AI & RAG Exploration
-- ✅ Continuous Learning
-
-</td>
-<td width="62%" valign="top">
+<!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Tech Stack
 
-**Frontend Development**
+### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
+</p>
 
-**Backend Development**
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
 
-**Database**
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
 
-**Tools & DevOps**
+### 🔧 Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" />
+</p>
 
-**AI & NLP**
+### 🤖 AI & NLP
 
-<img src="https://skillicons.dev/icons?i=python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NLP-00D9A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00D9A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C8C66?style=for-the-badge" />
+</p>
 
-<img src="https://img.shields.io/badge/NLP-00D9A3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-00D9A3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C8C66?style=for-the-badge" />
+---
+
+<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
+### 🤖 01. AI Resume Analyzer
 
-<img src="https://img.shields.io/badge/AI%20%26%20NLP-00D9A3?style=flat-square" />
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-AI%20%26%20NLP-00D9A3?style=flat-square" />
 
-Resume analysis, ATS scoring, skill extraction and job recommendations.
+An intelligent resume analyzer that evaluates resumes, generates ATS scores, extracts skills and recommends matching jobs.
 
-`React` `Node.js` `MongoDB` `NLP` `RAG`
+**Key Features**
+- 📄 Resume parsing and analysis.
+- 🎯 ATS score generation.
+- 🔍 Skill extraction.
+- 💼 Job recommendations.
+- 🧠 RAG and vector-based retrieval.
 
-<a href="https://github.com/07dhilipkumar02?tab=repositories">View Project →</a>
+**Technologies**
+
+`React` `Node.js` `Express` `MongoDB` `NLP` `RAG`
+
+<a href="https://github.com/07dhilipkumar02?tab=repositories">🔗 View Project</a>
 
 ---
 
-### 🛒 E-Commerce Web App
+### 🛒 02. E-Commerce Web Application
 
-Full-stack shopping platform with authentication, product management and cart functionality.
+<img src="https://img.shields.io/badge/MERN%20STACK-FULL%20STACK-00D9A3?style=flat-square" />
+
+A full-stack shopping platform featuring authentication, product management, search, cart functionality and REST API integration.
+
+**Key Features**
+- 🔐 User authentication.
+- 📦 Product management.
+- 🛍️ Shopping cart.
+- 🔎 Product search.
+- 🔗 REST API integration.
+
+**Technologies**
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+<a href="https://github.com/07dhilipkumar02?tab=repositories">🔗 View Project</a>
+
+---
+
+### 🍕 03. Food Ordering Application
+
+<img src="https://img.shields.io/badge/WEB%20APPLICATION-MERN%20STACK-00D9A3?style=flat-square" />
+
+A food ordering platform with authentication, cart management and frontend-backend API integration.
+
+**Key Features**
+- 🍔 Food browsing.
+- 🛒 Cart management.
+- 🔐 User authentication.
+- 🔗 API integration.
+
+**Technologies**
 
 `React` `Node.js` `Express` `MongoDB`
 
-<a href="https://github.com/07dhilipkumar02?tab=repositories">View Project →</a>
+<a href="https://github.com/07dhilipkumar02?tab=repositories">🔗 View Project</a>
 
 ---
 
-### 🍕 Food Ordering App
+### 💬 04. AI Chatbot
 
-Food ordering platform with authentication, cart management and API integration.
+<img src="https://img.shields.io/badge/AI%20PROJECT-NLP%20%26%20LLM-6C63FF?style=flat-square" />
 
-`React` `Node.js` `Express` `MongoDB`
+An intelligent chatbot that processes natural language queries using Python backend integration.
 
-<a href="https://github.com/07dhilipkumar02?tab=repositories">View Project →</a>
+**Key Features**
+- 🤖 Natural language processing.
+- 💬 Intelligent conversations.
+- 🐍 Python backend integration.
+- 🧠 AI-powered responses.
 
----
+**Technologies**
 
-### 💬 AI Chatbot
+`React` `Python` `Node.js` `NLP` `LLM`
 
-Intelligent chatbot with natural language processing and Python backend integration.
-
-`React` `Python` `NLP` `LLM`
-
-<a href="https://github.com/07dhilipkumar02?tab=repositories">View Project →</a>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/07dhilipkumar02?tab=repositories">🔗 View Project</a>
 
 ---
+
+<!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07dhilipkumar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9A3&icon_color=00D9A3&text_color=FFFFFF" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07dhilipkumar02&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9A3&text_color=FFFFFF" width="49%" />
-</p>
+### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=07dhilipkumar02&theme=tokyonight&hide_border=true&background=07111F&ring=00D9A3&fire=00D9A3&currStreakLabel=00D9A3" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=07dhilipkumar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9A3&icon_color=00D9A3&text_color=FFFFFF&rank_icon=github" width="100%" />
 </p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07dhilipkumar02&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9A3&text_color=FFFFFF" width="100%" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=07dhilipkumar02&theme=tokyonight&hide_border=true&background=07111F&ring=00D9A3&fire=00D9A3&currStreakLabel=00D9A3" width="100%" />
+</p>
+
+### 📉 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=07dhilipkumar02&bg_color=07111F&color=00D9A3&line=00D9A3&point=FFFFFF&area=true&hide_border=true" width="100%" />
@@ -152,46 +213,54 @@ Intelligent chatbot with natural language processing and Python backend integrat
 
 ---
 
-## 💼 Work Experience
+<!-- ================= EXPERIENCE ================= -->
+
+## 💼 Professional Experience
 
 ### 🟢 Full Stack Developer — TechB Software Solutions
 
 **January 2026 – Present**
 
 - Develop and maintain MERN stack applications.
-- Build responsive React.js interfaces.
-- Develop and integrate REST APIs.
+- Build responsive interfaces using React.js and JavaScript.
+- Develop and integrate RESTful APIs.
 - Manage MongoDB database operations.
 - Debug and optimize application performance.
+- Collaborate with development teams using Git and GitHub.
 
 ### 🔵 Full Stack Developer — Sukhibhavan Properties
 
 **2022 – 2024**
 
-- Developed responsive web applications.
-- Integrated frontend and backend APIs.
+- Developed responsive web applications using React.js and Node.js.
+- Integrated frontend and backend using REST APIs.
 - Designed and managed MongoDB databases.
-- Implemented features and resolved bugs.
+- Implemented features and resolved application bugs.
+- Supported application deployment and maintenance.
 
 ### 🟠 Marketing Executive — Harika Pharma & Surgical Distributors
 
 **2020 – 2022**
 
-- Managed customer interactions.
-- Supported business communications.
-- Assisted with business reporting.
+- Managed customer interactions and business communications.
+- Developed analytical and problem-solving skills.
+- Assisted with business reporting and process improvements.
 
 ---
+
+<!-- ================= ACHIEVEMENTS ================= -->
 
 ## 🏆 Achievements
 
-- 🚀 Built 4+ Full-Stack Applications.
-- 🤖 Developed AI-Powered Resume Analyzer.
-- 🔗 Integrated REST APIs and Databases.
+- 🚀 Built 4+ Full-Stack Application Projects.
+- 🤖 Developed an AI-Powered Resume Analyzer.
+- 🔗 Integrated REST APIs and Database Solutions.
 - 💻 Experienced in Frontend and Backend Development.
-- 📈 Continuously Learning Modern Technologies.
+- 📈 Continuously Learning Modern Development Technologies.
 
 ---
+
+<!-- ================= CERTIFICATIONS ================= -->
 
 ## 📜 Certifications
 
@@ -203,13 +272,19 @@ Intelligent chatbot with natural language processing and Python backend integrat
 
 ---
 
+<!-- ================= EDUCATION ================= -->
+
 ## 🎓 Education
 
-**B.E. – Electrical and Electronics Engineering**
+**Bachelor of Engineering – Electrical and Electronics Engineering**
 
-Anna University | 2012 – 2016
+Anna University
+
+**2012 – 2016**
 
 ---
+
+<!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect With Me
 
@@ -228,6 +303,8 @@ Anna University | 2012 – 2016
   </a>
 </p>
 
+---
+
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
@@ -237,4 +314,5 @@ Anna University | 2012 – 2016
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
+
 <p align="center">Let's connect and build something amazing. 🚀</p>
