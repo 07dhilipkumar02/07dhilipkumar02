@@ -1,297 +1,299 @@
+# 👋 Hi, I'm Dhilipkumar P
 
-<!-- ================= CUSTOM HEADER BANNER ================= -->
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:063B4A,100:00D9A3&height=230&section=header&text=Dhilipkumar%20P&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20%26%20NLP%20Enthusiast&descAlignY=58&descSize=15](https://capsule-render.vercel.app/api?type=waving\&color=0:07111F,50:063B4A,100:00D9A3\&height=230\&section=header\&text=Dhilipkumar%20P\&fontSize=55\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=35\&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20%26%20NLP%20Enthusiast\&descAlignY=58\&descSize=15)" width="100%" />
+\</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:063B4A,100:00D9A3&height=220&section=header&text=Dhilipkumar%20P&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=15" width="100%" />
-</p>
+\<table width="100%">
+\<tr>
+\<td width="25%" align="center">
+\<img src="[https://github.com/07dhilipkumar02.png](https://github.com/07dhilipkumar02.png)" width="175" style="border-radius:50%;" />
+\</td>
+\<td width="75%">
 
-<!-- ================= INTRODUCTION ================= -->
+\<h1>Hi 👋, I'm Dhilipkumar P\</h1>
 
-<h1 align="center">
-  Hi 👋, I'm Dhilipkumar P
-</h1>
+\<h3>MERN Stack Developer | Full-Stack Engineer | AI & NLP Enthusiast\</h3>
 
-<h3 align="center">
-  MERN Stack Developer | Full-Stack Engineer | AI & NLP Enthusiast
-</h3>
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9A3&width=500&lines=Building+Scalable+Web+Applications;Developing+Modern+MERN+Applications;Exploring+AI%2C+RAG+%26+LLMs;Always+Learning+%26+Building](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1000\&color=00D9A3\&width=500\&lines=Building+Scalable+Web+Applications;Developing+Modern+MERN+Applications;Exploring+AI%2C+RAG+%26+LLMs;Always+Learning+%26+Building)" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9A3&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+Modern+MERN+Applications;Exploring+AI%2C+RAG+%26+LLMs;Always+Learning+%26+Building" />
-</p>
+\<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=07dhilipkumar02&label=PROFILE+VIEWS&color=00D9A3&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-MERN%20STACK-00D9A3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00C853?style=for-the-badge" />
-</p>
+\<img src="[https://komarev.com/ghpvc/?username=07dhilipkumar02&label=PROFILE+VIEWS&color=00D9A3&style=for-the-badge](https://komarev.com/ghpvc/?username=07dhilipkumar02\&label=PROFILE+VIEWS\&color=00D9A3\&style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/FOCUS-MERN%20STACK-00D9A3?style=for-the-badge](https://img.shields.io/badge/FOCUS-MERN%20STACK-00D9A3?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00C853?style=for-the-badge](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00C853?style=for-the-badge)" />
+
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+\<table width="100%">
+\<tr>
+\<td width="34%" valign="top">
 
 ## 👨‍💻 About Me
 
 I'm a passionate **Full-Stack Developer** focused on building responsive, scalable and user-friendly web applications.
 
-- 💻 Professional experience in MERN Stack development.
-- ⚛️ Frontend development with React.js and JavaScript.
-- 🔧 Backend development with Node.js and Express.js.
-- 🗄️ Database management using MongoDB and SQL.
-- 🤖 Exploring AI, NLP, RAG and LLM technologies.
-- ☁️ Learning Docker, AWS and System Design.
-- 🚀 Interested in building real-world software solutions.
+- 💻 MERN Stack Development
+- ⚛️ React.js & JavaScript
+- 🔧 Node.js & Express.js
+- 🗄️ MongoDB & SQL
+- 🤖 AI, NLP, RAG & LLMs
+- 🐳 Learning Docker & System Design
+- 🚀 Building real-world applications
+
+### Developer Profile
 
 ```javascript
-const dhilipkumar = {
+const developer = {
   name: "Dhilipkumar P",
   role: "Full Stack Developer",
-  education: "B.E. - Anna University",
   location: "India",
+  education: "B.E. (EEE)",
 
-  frontend: ["React.js", "JavaScript", "HTML5", "CSS3"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-  database: ["MongoDB", "MySQL", "PostgreSQL"],
-  tools: ["Git", "GitHub", "Postman", "VS Code"],
+  frontend: ["React", "JavaScript"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB", "MySQL"],
+  focus: ["MERN Stack", "AI & NLP"],
 
-  exploring: ["AI", "NLP", "RAG", "LLMs", "Docker", "AWS"],
-
-  goal: "Build scalable and intelligent applications"
+  goal: "Build scalable applications"
 };
 ```
 
----
+### What I Do
 
-<!-- ================= TECH STACK ================= -->
+- ✅ MERN Stack Development
+- ✅ REST API Integration
+- ✅ Database Management
+- ✅ Exploring AI and RAG
+- ✅ Continuous Learning
+
+### 📊 GitHub Stats
+
+\<img src="[https://github-readme-stats.vercel.app/api?username=07dhilipkumar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9A3&icon_color=00D9A3&text_color=FFFFFF](https://github-readme-stats.vercel.app/api?username=07dhilipkumar02\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=07111F\&title_color=00D9A3\&icon_color=00D9A3\&text_color=FFFFFF)" width="100%" />
+
+\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=07dhilipkumar02&theme=tokyonight&hide_border=true&background=07111F&ring=00D9A3&fire=00D9A3&currStreakLabel=00D9A3](https://github-readme-streak-stats.herokuapp.com/?user=07dhilipkumar02\&theme=tokyonight\&hide_border=true\&background=07111F\&ring=00D9A3\&fire=00D9A3\&currStreakLabel=00D9A3)" width="100%" />
+
+\</td>
+
+\<td width="66%" valign="top">
 
 ## 🛠️ Tech Stack
 
-<h3 align="left">🎨 Frontend Development</h3>
+### 🎨 Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap)" />
+\</p>
 
-<h3 align="left">⚙️ Backend Development</h3>
+### ⚙️ Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=nodejs,express,python](https://skillicons.dev/icons?i=nodejs,express,python)" />
+\</p>
 
-<h3 align="left">🗄️ Database</h3>
+### 🗄️ Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)" />
+\</p>
 
-<h3 align="left">🤖 AI & Machine Learning</h3>
+### 🔧 Tools & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/RAG-00D9A3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-0088CC?style=for-the-badge" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws)" />
+\</p>
 
-<h3 align="left">🔧 Tools & DevOps</h3>
+### 🤖 AI & NLP
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" />
+\<img src="[https://img.shields.io/badge/NLP-00D9A3?style=for-the-badge](https://img.shields.io/badge/NLP-00D9A3?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/RAG-00D9A3?style=for-the-badge](https://img.shields.io/badge/RAG-00D9A3?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge](https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/LangChain-1C8C66?style=for-the-badge](https://img.shields.io/badge/LangChain-1C8C66?style=for-the-badge)" />
+\</p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+\<table width="100%">
+\<tr>
+\<td width="50%" valign="top">
 
 ### 🤖 AI Resume Analyzer
 
-<img src="https://img.shields.io/badge/MERN%20STACK-AI%20%26%20NLP-00D9A3?style=flat-square" />
+\<img src="[https://img.shields.io/badge/AI%20%26%20NLP-00D9A3?style=flat-square](https://img.shields.io/badge/AI%20%26%20NLP-00D9A3?style=flat-square)" />
 
-An intelligent resume analyzer that evaluates resumes, generates ATS scores, extracts skills and recommends matching jobs.
+Intelligent resume analysis with ATS scoring, skill extraction and job recommendations.
 
 **Technologies**
 
-`React` `Node.js` `Express` `MongoDB` `NLP`
+`React` `Node.js` `MongoDB` `NLP` `RAG`
 
-[Explore my repositories](https://github.com/07dhilipkumar02?tab=repositories)
+\<a href="[https://github.com/07dhilipkumar02?tab=repositories](https://github.com/07dhilipkumar02?tab=repositories)">View Project →\</a>
 
-</td>
-<td width="50%" valign="top">
+\</td>
+\<td width="50%" valign="top">
 
 ### 🛒 E-Commerce Web App
 
-<img src="https://img.shields.io/badge/MERN%20STACK-FULL%20STACK-00D9A3?style=flat-square" />
+\<img src="[https://img.shields.io/badge/MERN%20STACK-00D9A3?style=flat-square](https://img.shields.io/badge/MERN%20STACK-00D9A3?style=flat-square)" />
 
-A full-stack shopping platform featuring authentication, product management, search, cart functionality and REST APIs.
-
-**Technologies**
-
-`React` `Node.js` `MongoDB` `JWT`
-
-[Explore my repositories](https://github.com/07dhilipkumar02?tab=repositories)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🍕 Food Ordering App
-
-<img src="https://img.shields.io/badge/MERN%20STACK-WEB%20APPLICATION-00D9A3?style=flat-square" />
-
-A food ordering platform with authentication, cart management and frontend-backend API integration.
+Full-stack shopping platform featuring authentication, product management, search and cart functionality.
 
 **Technologies**
 
 `React` `Node.js` `Express` `MongoDB`
 
-[Explore my repositories](https://github.com/07dhilipkumar02?tab=repositories)
+\<a href="[https://github.com/07dhilipkumar02?tab=repositories](https://github.com/07dhilipkumar02?tab=repositories)">View Project →\</a>
 
-</td>
-<td width="50%" valign="top">
+\</td>
+\</tr>
 
-### 💬 AI Chatbot
+\<tr>
+\<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/AI%20PROJECT-NLP-00D9A3?style=flat-square" />
+### 🍕 Food Ordering App
 
-An intelligent chatbot that processes natural language queries using NLP and Python backend integration.
+\<img src="[https://img.shields.io/badge/WEB%20APPLICATION-00D9A3?style=flat-square](https://img.shields.io/badge/WEB%20APPLICATION-00D9A3?style=flat-square)" />
+
+Food ordering platform with authentication, cart management and API integration.
 
 **Technologies**
 
-`React` `Python` `Node.js` `NLP`
+`React` `Node.js` `Express` `MongoDB`
 
-[Explore my repositories](https://github.com/07dhilipkumar02?tab=repositories)
+\<a href="[https://github.com/07dhilipkumar02?tab=repositories](https://github.com/07dhilipkumar02?tab=repositories)">View Project →\</a>
 
-</td>
-</tr>
-</table>
+\</td>
+\<td width="50%" valign="top">
+
+### 💬 AI Chatbot
+
+\<img src="[https://img.shields.io/badge/AI%20PROJECT-00D9A3?style=flat-square](https://img.shields.io/badge/AI%20PROJECT-00D9A3?style=flat-square)" />
+
+Intelligent chatbot that processes natural language queries with Python backend integration.
+
+**Technologies**
+
+`React` `Python` `NLP` `LLM`
+
+\<a href="[https://github.com/07dhilipkumar02?tab=repositories](https://github.com/07dhilipkumar02?tab=repositories)">View Project →\</a>
+
+\</td>
+\</tr>
+\</table>
+
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
+## 📈 GitHub Analytics
 
-## 📊 GitHub Analytics
+\<p align="center">
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=07dhilipkumar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9A3&icon_color=00D9A3&text_color=FFFFFF](https://github-readme-stats.vercel.app/api?username=07dhilipkumar02\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=07111F\&title_color=00D9A3\&icon_color=00D9A3\&text_color=FFFFFF)" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=07dhilipkumar02&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9A3&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=07dhilipkumar02\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=07111F\&title_color=00D9A3\&text_color=FFFFFF)" />
+\</p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=07dhilipkumar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9A3&icon_color=00D9A3&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07dhilipkumar02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9A3&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=07dhilipkumar02&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9A3&fire=00D9A3&currStreakLabel=00D9A3" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=07dhilipkumar02&bg_color=0D1117&color=00D9A3&line=00D9A3&point=FFFFFF&area=true&hide_border=true" />
-</p>
+\<p align="center">
+\<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=07dhilipkumar02&bg_color=07111F&color=00D9A3&line=00D9A3&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=07dhilipkumar02\&bg_color=07111F\&color=00D9A3\&line=00D9A3\&point=FFFFFF\&area=true\&hide_border=true)" />
+\</p>
 
 ---
 
-<!-- ================= EXPERIENCE ================= -->
+\<table width="100%">
+\<tr>
+\<td width="55%" valign="top">
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
-### 🟢 Full Stack Developer — TechB Software Solutions
-**January 2026 – Present**
+### 🟢 Full Stack Developer
+
+**TechB Software Solutions**
+
+`January 2026 – Present`
 
 - Develop and maintain MERN stack applications.
-- Build responsive interfaces using React.js, JavaScript, HTML and CSS.
-- Develop and integrate RESTful APIs.
+- Build responsive interfaces using React.js.
+- Develop and integrate REST APIs.
 - Manage MongoDB database operations.
 - Debug and optimize application performance.
-- Collaborate with development teams using Git and GitHub.
 
-### 🔵 Full Stack Developer — Sukhibhavan Properties
-**2022 – 2024**
+### 🔵 Full Stack Developer
 
-- Developed responsive web applications using React.js and Node.js.
-- Integrated frontend and backend using REST APIs.
+**Sukhibhavan Properties**
+
+`2022 – 2024`
+
+- Developed responsive web applications.
+- Integrated frontend and backend APIs.
 - Designed and managed MongoDB databases.
-- Implemented features and resolved application bugs.
-- Supported application deployment and maintenance.
+- Implemented features and resolved bugs.
 
-### 🟠 Marketing Executive — Harika Pharma & Surgical Distributors
-**2020 – 2022**
+### 🟠 Marketing Executive
 
-- Managed customer interactions and business communications.
-- Developed analytical and problem-solving skills.
-- Assisted with business reporting and process improvements.
+**Harika Pharma & Surgical Distributors**
 
----
+`2020 – 2022`
 
-<!-- ================= ACHIEVEMENTS ================= -->
+- Managed customer interactions.
+- Supported business communications.
+- Assisted with business reporting.
+
+\</td>
+
+\<td width="45%" valign="top">
 
 ## 🏆 Achievements
 
-- 🚀 Built 4+ full-stack application projects.
-- 🤖 Developed an AI-powered Resume Analyzer.
-- 🔗 Integrated REST APIs and database-driven solutions.
-- 💻 Experienced in frontend and backend development.
-- 📈 Continuously learning modern development technologies.
+- 🚀 Built 4+ Full-Stack Applications
+- 🤖 Developed AI Resume Analyzer
+- 🔗 Integrated REST APIs
+- 💻 Full-Stack Development
+- 📈 Continuous Learning
 
 ---
-
-<!-- ================= CERTIFICATIONS ================= -->
 
 ## 📜 Certifications
 
-| Certification | Platform |
-|---|---|
-| MERN Stack | Entri Elevate (NSDC) |
-| MERN Stack | Illinois Tech |
-| JavaScript & Python | GUVI |
-| AI for All | NASSCOM |
-| Machine Learning & Deep Learning | Certified |
+- ✅ MERN Stack – Entri Elevate (NSDC)
+- ✅ MERN Stack – Illinois Tech
+- ✅ JavaScript & Python – GUVI
+- ✅ AI for All – NASSCOM
+- ✅ Machine Learning & Deep Learning
 
 ---
-
-<!-- ================= EDUCATION ================= -->
 
 ## 🎓 Education
 
-**Bachelor of Engineering – Electrical and Electronics Engineering**
+**B.E. – Electrical and Electronics Engineering**
 
-Anna University | 2012 – 2016
+Anna University
+
+`2012 – 2016`
+
+\</td>
+\</tr>
+\</table>
 
 ---
-
-<!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhilip-kumar-07dk02/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/07dhilipkumar02">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:dhilipkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mern-portfolio-xlxj.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9A3?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+\<p align="center"> \<a href="[https://www.linkedin.com/in/dhilip-kumar-07dk02/](https://www.linkedin.com/in/dhilip-kumar-07dk02/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a> \<a href="[https://github.com/07dhilipkumar02](https://github.com/07dhilipkumar02)"> \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a> \<a href="mailto\:dhilipkumar\@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" /> \</a> \<a href="[https://creative-moxie-68e0ef.netlify.app/](https://creative-moxie-68e0ef.netlify.app/)"> \<img src="[https://img.shields.io/badge/Portfolio-Visit-00D9A3?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-00D9A3?style=for-the-badge\&logo=vercel\&logoColor=white)" /> \</a> \</p>
 
----
+\<p align="center">   \<i>"Code is like humor. When you have to explain it, it's bad." — Cory House\</i> \</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A3,100:07111F&height=120&section=footer" width="100%" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00D9A3,100:07111F&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00D9A3,100:07111F\&height=120\&section=footer)" width="100%" />
+\</p>
 
-<h3 align="center">
-  💡 "Great software is built one problem at a time."
-</h3>
-
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-  <br/>
-  Let's connect and build something amazing. 🚀
-</p>
+\<h3 align="center">⭐ Thanks for visiting my GitHub profile!\</h3>
+\<p align="center">Let's connect and build something amazing. 🚀\</p>
