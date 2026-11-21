@@ -35,5 +35,5 @@
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i><br/>
-  ⭐ Thanks for visiting! Let's connect and build something amazing. 🚀
+   ❤️Thanks for visiting! Let's connect and build something amazing. 💕
 </p>
