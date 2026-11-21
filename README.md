@@ -1,5 +1,6 @@
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Dhilipkumar P — MERN Stack Developer" />
+  
 </p>
 
 <p align="center">
